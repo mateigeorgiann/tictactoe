@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\global_variables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|solutionrelative:global_variables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{60333BB6-B418-47F3-87D7-B3D11005E7D0}|tictactoe.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "functions.h",
               "DocumentMoniker": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\functions.h",
               "RelativeDocumentMoniker": "functions.h",
               "ToolTip": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\functions.h",
               "RelativeToolTip": "functions.h",
-              "ViewState": "AQIAAAIBAAAAAAAAAAAuwAgBAAAaAAAA",
+              "ViewState": "AQIAAKkBAAAAAAAAAAAAALEBAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-27T04:31:50.261Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-28T16:07:58.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAUwGQAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv08AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T04:31:38.974Z",
+              "WhenOpened": "2024-03-28T13:28:04.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "global_variables.h",
               "DocumentMoniker": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\global_variables.h",
               "RelativeDocumentMoniker": "global_variables.h",
               "ToolTip": "C:\\Users\\literallynustiu\\source\\repos\\tictactoe\\global_variables.h",
               "RelativeToolTip": "global_variables.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-27T07:08:54.474Z",
               "EditorCaption": ""

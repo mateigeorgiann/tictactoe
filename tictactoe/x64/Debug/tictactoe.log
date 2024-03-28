@@ -1,2 +1,5 @@
 ﻿  Source.cpp
+C:\Users\literallynustiu\source\repos\tictactoe\functions.h(94,10): warning C4101: 'currentBoard': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
   tictactoe.vcxproj -> C:\Users\literallynustiu\source\repos\tictactoe\x64\Debug\tictactoe.exe

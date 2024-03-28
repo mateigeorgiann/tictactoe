@@ -4,25 +4,40 @@
 #include <algorithm>
 #include "functions.h"
 #include "global_variables.h"
+//I REALLY TRIED ELIMINATING HEADER FILES BUT I KEPT GETTING LNK2005 , ive read the whole pae on lear.microsoft and I was onlt able to fix the variables
+//not the functions, so to not program everything from 0 because i really cant figure out what to do , ill keep it like this for tic tac toe
+//as its not a big final project.if you could help me with the error i would be glad to learn how to solve it
+// i tried making a functions.cpp replaced stuff around , and it kept sayng that it is already defined in functions.obj 
 
+
+
+    
 //MULTIPLAYER AND SINGLEPLAYER ARE REVERSED, I PROGRAMMED THE WHOLE THING LIKE THIS I JUST REALISED IT AFTER TESTING IT ON MY FRIEND ADN ASKED ME WHY THEY ARE SWITCHED
 int main()
 {
     
     
+    //ask the dimensions of the game
+    askSizes();
 
+    //used for choosing single player or multi
     char mode;
     mode = modeOfPlay();
     static char wantPlay = {};
-    //ASKS PLAYER IF THEY WANT SINGLE PLAYER OR MULTIPLAER
 
+   
+    // That means add a generalised way of draw()
+    // Check winnings function diffrently 
+    // 
+    //ASKS PLAYER IF THEY WANT SINGLE PLAYER OR MULTIPLAER
+    
     //THIS IS FOR SINGLE PLAYER
     if (mode == 'M')
     {
         setNames();
         playAgainS:
         
-        //not entering the function
+        
         playSinglePlayer();
         draw();
         turn = !turn;

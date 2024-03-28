@@ -1,6 +1,28 @@
-﻿  Source.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  tictactoe.vcxproj -> C:\Users\literallynustiu\source\repos\tictactoe\x64\Release\tictactoe.exe
+﻿  functions.cpp
+Source.obj : error LNK2005: "char player2sign" (?player2sign@@3DA) already defined in functions.obj
+Source.obj : error LNK2005: "int bestMoveI" (?bestMoveI@@3HA) already defined in functions.obj
+Source.obj : error LNK2005: "int bestMoveJ" (?bestMoveJ@@3HA) already defined in functions.obj
+Source.obj : error LNK2005: "char currentPlayer" (?currentPlayer@@3DA) already defined in functions.obj
+Source.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > player2name" (?player2name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in functions.obj
+Source.obj : error LNK2005: "int playerScore2" (?playerScore2@@3HA) already defined in functions.obj
+Source.obj : error LNK2005: "bool turn" (?turn@@3_NA) already defined in functions.obj
+Source.obj : error LNK2005: "int playerScore1" (?playerScore1@@3HA) already defined in functions.obj
+Source.obj : error LNK2005: "int turnNumber" (?turnNumber@@3HA) already defined in functions.obj
+Source.obj : error LNK2005: "char player1sign" (?player1sign@@3DA) already defined in functions.obj
+Source.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > player1name" (?player1name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in functions.obj
+Source.obj : error LNK2005: "char (* board)[4]" (?board@@3PAY03DA) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl playMultiPlayer(void)" (?playMultiPlayer@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl playSinglePlayer(void)" (?playSinglePlayer@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl takeTurn(char &,int)" (?takeTurn@@YAXAEADH@Z) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl setNames(void)" (?setNames@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl bestMoveAI(int &,int &,int)" (?bestMoveAI@@YAXAEAH0H@Z) already defined in functions.obj
+Source.obj : error LNK2005: "int __cdecl minimax(char,int)" (?minimax@@YAHDH@Z) already defined in functions.obj
+Source.obj : error LNK2005: "bool __cdecl checkWinning(char)" (?checkWinning@@YA_ND@Z) already defined in functions.obj
+Source.obj : error LNK2005: "bool __cdecl drawGame(int &)" (?drawGame@@YA_NAEAH@Z) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl draw(void)" (?draw@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl clearCIN(void)" (?clearCIN@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl createBoard(void)" (?createBoard@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "char __cdecl modeOfPlay(void)" (?modeOfPlay@@YADXZ) already defined in functions.obj
+Source.obj : error LNK2005: "void __cdecl endGame(void)" (?endGame@@YAXXZ) already defined in functions.obj
+Source.obj : error LNK2005: "int __cdecl askSizes(void)" (?askSizes@@YAHXZ) already defined in functions.obj
+C:\Users\literallynustiu\source\repos\tictactoe\x64\Release\tictactoe.exe : fatal error LNK1169: one or more multiply defined symbols found
